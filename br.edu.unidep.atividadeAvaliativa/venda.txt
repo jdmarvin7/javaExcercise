@@ -1,0 +1,9 @@
+
+Nome: Chocolate
+Data: 20211012
+Valor: 30.0
+Imposto IMCS: 3.6
+Nome: Morango
+Data: 2021
+Valor: 20.0
+Imposto IMCS: 2.4
